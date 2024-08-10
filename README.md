@@ -35,5 +35,5 @@ Maven
 MySQL (or any other preferred database)
 Installation 🔧
 Clone the repository:
-git clone https://github.com/sarfaraz43/library-management-system.git
+git clone https://github.com/sarfaraz43/Library-Management-System-/blob/main/README.md
 cd library-management-system
